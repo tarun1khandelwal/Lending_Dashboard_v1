@@ -1,0 +1,1001 @@
+lender,month_start,product_type,isautoleadcreated,major_index,original_major_stage,sub_stage,Leads,Stuck%
+FULLERTON,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,10584,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),2.0,Workable leads,,10584,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,9113,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,7798,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,7214,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),2.0,Workable leads,,7214,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,6464,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),2.0,Workable leads,,6464,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,6412,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,5494,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,5113,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,4978,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,4916,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),2.0,Workable leads,,4913,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,4913,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,4474,
+KSF,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,4314,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,4252,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,4183,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,4172,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,4113,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,4018,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),2.0,Workable leads,,4018,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,3997,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,3986,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,3834,
+KSF,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,3832,
+KSF,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,3824,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,3772,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,3476,
+KSF,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,3454,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,3437,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,3363,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,3360,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,2827,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),2.0,Workable leads,,2827,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,2770,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,2765,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,2731,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,2720,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),2.0,Workable leads,,2661,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,2661,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),2.0,Workable leads,,2586,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,2586,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,2574,
+KSF,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,2530,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,2519,32.3
+FULLERTON,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,2509,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,2468,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,2394,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),4.0,BRE1 completed,,2394,
+KSF,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,2386,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,2374,
+KSF,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,2354,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),4.0,BRE1 completed,,2338,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,2338,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,2338,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),4.0,BRE1 completed,,2311,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,2311,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,2253,
+KSF,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,2202,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,2125,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,2124,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,2099,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),2.0,Workable leads,,2095,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,2095,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,2093,
+KSF,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,2001,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,1970,
+KSF,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,1967,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,1942,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),2.0,Workable leads,,1931,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,1931,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),2.0,Workable leads,,1927,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,1927,
+UCL,1.MTD,MicroML,Flow1(Auto),6.0,Child_Lead_Created,,1875,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,1874,
+KSF,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,1869,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),4.0,BRE1 completed,,1857,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,1857,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,1807,
+KSF,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,1790,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,1767,
+KSF,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,1759,
+KSF,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,1740,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,1712,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),4.0,BRE1 completed,,1703,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,1703,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,1697,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,1695,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,1687,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),2.0,Workable leads,,1687,
+KSF,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,1668,
+MFL,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,1658,
+MFL,2.LMTD,Fresh,Flow1(Auto),2.0,Workable leads,,1658,
+PYFL,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,1647,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,1643,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),2.0,Workable leads,,1643,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,1635,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,1616,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,1594,
+KSF,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,1564,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,1551,
+KSF,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,1524,
+KSF,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,1515,
+KSF,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,1504,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,1500,
+UCL,1.MTD,MicroML,Flow2(Manual),6.0,Child_Lead_Created,,1496,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,1491,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,1465,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),4.0,BRE1 completed,,1465,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_IN_PROGRESS,1447,13.7
+MFL,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,1437,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,1434,
+KSF,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,1428,
+KSF,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,1420,
+UCL,1.MTD,MicroML,Flow1(Auto),7.0,Selfie uploaded,,1375,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,1364,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,1352,39.3
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,1341,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),2.0,Workable leads,,1341,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,1335,
+PYFL,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,1326,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_IN_PROGRESS,1320,20.4
+KSF,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,1316,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,1315,
+KSF,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,1297,
+KSF,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,1281,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,1278,30.1
+PYFL,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,1277,
+NACL,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,1240,
+NACL,1.MTD,Fresh,Flow1(Auto),2.0,Workable leads,,1240,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,1236,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),4.0,BRE1 completed,,1236,
+PYFL,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,1226,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,1226,
+KSF,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,1160,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,1156,21.0
+PYFL,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,1143,
+KSF,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,1142,
+PYFL,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,1123,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,1122,12.3
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,1104,
+PYFL,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,1100,
+KSF,1.MTD,Fresh,Flow1(Auto),1001.0,Unmapped,,1089,
+PYFL,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,1078,
+NACL,1.MTD,Renewal,Flow1(Auto),2.0,Workable leads,,1063,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,1063,
+NACL,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,1063,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),2.0,Workable leads,,1063,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,1054,
+UCL,1.MTD,MicroML,Flow2(Manual),7.0,Selfie uploaded,,1049,
+NACL,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,1048,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,1030,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,1027,
+MFL,2.LMTD,Fresh,Flow2(Manual),2.0,Workable leads,,1023,
+MFL,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,1023,
+PYFL,1.MTD,Fresh,Flow1(Auto),1001.0,Unmapped,,1009,
+PYFL,1.MTD,Renewal,Flow1(Auto),1001.0,Unmapped,,1007,
+KSF,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,1007,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,1004,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),2.0,Workable leads,,1004,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,1003,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,993,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),1002.0,Unmapped,,992,
+KSF,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,987,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,982,
+KSF,1.MTD,Renewal,Flow1(Auto),1001.0,Unmapped,,979,
+KSF,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,978,
+NACL,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,970,
+PYFL,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,969,
+MFL,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,965,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,965,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,965,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,961,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),4.0,BRE1 completed,,961,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,935,
+MFL,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,924,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,918,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,914,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,893,
+PYFL,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,885,
+KSF,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,882,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,866,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,865,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,865,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,862,
+PYFL,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,862,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,862,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,857,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,856,
+KSF,1.MTD,Fresh,Flow2(Manual),1001.0,Unmapped,,853,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,848,
+NACL,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,846,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,846,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,844,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,843,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,836,
+PYFL,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,808,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,801,12.5
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,800,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,799,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,797,
+NACL,2.LMTD,Fresh,Flow1(Auto),2.0,Workable leads,,795,
+NACL,2.LMTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,795,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_IN_PROGRESS,787,10.9
+NACL,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,786,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,785,
+KSF,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,781,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,772,
+UCL,1.MTD,MicroML,Flow1(Auto),8.0,KYC completed,,751,
+KSF,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,746,
+MFL,1.MTD,Fresh,Flow1(Auto),2.0,Workable leads,,746,
+MFL,1.MTD,Fresh,Flow1(Auto),6.0,Child_Lead_Created,,746,
+KSF,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,744,
+PYFL,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,743,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,743,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,742,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,741,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),2.0,Workable leads,,741,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,737,14.4
+KSF,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,731,
+KSF,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,730,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,727,
+NACL,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,724,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,724,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,724,
+NACL,1.MTD,Fresh,Flow2(Manual),2.0,Workable leads,,724,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,720,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),2.0,Workable leads,,720,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_IN_PROGRESS,715,14.6
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,709,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,708,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),4.0,BRE1 completed,,706,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,706,
+PYFL,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,704,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,703,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,700,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,699,
+KSF,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,691,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),2.0,Workable leads,,679,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,679,
+NACL,2.LMTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,678,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),4.0,BRE1 completed,,673,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,673,
+KSF,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,672,
+PYFL,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,665,
+MFL,1.MTD,Fresh,Flow1(Auto),7.0,Selfie uploaded,,664,
+PYFL,1.MTD,Fresh,Flow2(Manual),1001.0,Unmapped,,664,
+UCL,1.MTD,MicroML,Flow1(Auto),9.0,BRE2 completed,,663,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,660,
+PYFL,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,658,
+MFL,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,656,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,656,48.1
+PYFL,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,653,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,647,43.4
+PYFL,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,646,
+KSF,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,642,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,642,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,641,
+NACL,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,632,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),1002.0,Unmapped,,631,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),4.0,BRE1 completed,,630,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,630,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,628,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,627,15.0
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,625,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,625,27.0
+PYFL,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,623,
+PYFL,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,623,
+KSF,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,622,16.3
+UCL,1.MTD,MicroML,Flow1(Auto),10.0,Disbursal acc verified,,622,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,622,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,621,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,617,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,617,
+MFL,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,616,
+MFL,2.LMTD,Renewal,Flow1(Auto),2.0,Workable leads,,616,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,610,
+PYFL,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,608,
+MFL,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,607,
+PYFL,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,605,
+PYFL,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,604,
+PYFL,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,604,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,603,17.3
+MFL,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,601,
+PYFL,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,600,
+PYFL,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,600,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,600,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,592,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,588,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,583,
+UCL,1.MTD,MicroML,Flow2(Manual),8.0,KYC completed,,580,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,578,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,578,
+MFL,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,577,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,576,
+KSF,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,576,
+KSF,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,574,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,574,
+MFL,1.MTD,Renewal,Flow1(Auto),2.0,Workable leads,,573,
+MFL,1.MTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,573,
+PYFL,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,571,
+MFL,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,568,
+KSF,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,568,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),1002.0,Unmapped,,565,
+KSF,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,565,
+NACL,2.LMTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,563,
+NACL,2.LMTD,Fresh,Flow2(Manual),2.0,Workable leads,,563,
+PYFL,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,562,
+PYFL,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,562,
+KSF,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,561,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,560,
+PYFL,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,560,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,556,
+NACL,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,552,
+MFL,1.MTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,552,
+KSF,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,551,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,551,
+NACL,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,551,
+NACL,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,547,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,547,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,539,22.5
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),15.0,Disbursed,,538,
+UCL,1.MTD,MicroML,Flow1(Auto),11.0,Review submit,,537,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,536,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,535,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,534,
+NACL,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,533,
+UCL,1.MTD,MicroML,Flow2(Manual),9.0,BRE2 completed,,526,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,518,
+PYFL,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,515,
+NACL,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,513,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,513,
+KSF,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,511,38.8
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,511,
+PYFL,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,511,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,511,
+KSF,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,509,51.6
+KSF,2.LMTD,Fresh,Flow2(Manual),1001.0,Unmapped,,506,
+PYFL,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,505,
+PYFL,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,501,
+NACL,2.LMTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,500,
+NACL,2.LMTD,Fresh,Flow1(Auto),8.0,KYC completed,,499,
+NACL,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,495,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,494,
+UCL,1.MTD,MicroML,Flow2(Manual),10.0,Disbursal acc verified,,492,
+MFL,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,491,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,487,
+MFL,1.MTD,Fresh,Flow1(Auto),8.0,KYC completed,,487,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,484,31.2
+MFL,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,484,
+KSF,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,483,20.2
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,482,
+NACL,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,478,
+MFL,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,478,
+NACL,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,477,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,477,10.7
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),1002.0,Unmapped,,473,
+NACL,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,472,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,471,12.3
+PYFL,1.MTD,Renewal,Flow1(Auto),1001.1,Unmapped,FETCH_DOC_INIT_SUCCESS,470,46.7
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,467,11.7
+PYFL,1.MTD,Renewal,Flow2(Manual),1001.0,Unmapped,,464,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,460,
+MFL,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,460,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,460,
+MFL,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,452,
+PYFL,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,449,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,446,
+KSF,2.LMTD,Fresh,Flow1(Auto),1001.0,Unmapped,,446,
+PYFL,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,443,
+MFL,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,442,
+NACL,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,440,
+MFL,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,440,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,437,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,437,
+KSF,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,436,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),8.0,KYC completed,,435,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,433,15.3
+UCL,1.MTD,MicroML,Flow1(Auto),12.0,Mandate done,,432,
+PYFL,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,431,
+NACL,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,429,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,429,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),2.0,Workable leads,,429,
+NACL,1.MTD,Renewal,Flow2(Manual),2.0,Workable leads,,429,
+KSF,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,428,
+PYFL,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,427,
+KSF,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,425,
+NACL,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,425,
+PYFL,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,423,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,421,
+KSF,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,415,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,414,
+KSF,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,414,
+KSF,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,413,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,411,28.7
+KSF,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,410,11.9
+PYFL,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,410,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,408,
+KSF,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,407,
+KSF,1.MTD,Renewal,Flow2(Manual),1001.0,Unmapped,,405,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,404,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),4.0,BRE1 completed,,404,
+PYFL,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,402,
+PYFL,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,402,
+NACL,2.LMTD,Renewal,Flow1(Auto),6.0,Child_Lead_Created,,401,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),10.1,Disbursal acc verified,BANKING_ACTION_DONE,401,8.2
+NACL,2.LMTD,Renewal,Flow1(Auto),2.0,Workable leads,,401,
+KSF,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,399,
+PYFL,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,397,
+UCL,1.MTD,MicroML,Flow1(Auto),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,396,21.1
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,394,
+MFL,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,393,
+PYFL,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,392,
+KSF,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,390,
+PYFL,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,390,
+NACL,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,389,
+UCL,1.MTD,MicroML,Flow2(Manual),11.0,Review submit,,388,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,388,
+MFL,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,387,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,385,
+KSF,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,383,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),15.0,Disbursed,,382,
+PYFL,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,380,
+NACL,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,379,
+PYFL,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,377,
+NACL,2.LMTD,Fresh,Flow2(Manual),8.0,KYC completed,,375,
+NACL,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,374,
+KSF,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,BANK_NAME_MATCH_FAILED,373,8.6
+UCL,1.MTD,MicroML,Flow2(Manual),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,371,24.8
+UCL,1.MTD,MicroML,Flow1(Auto),13.0,Application submitted by user,,371,
+KSF,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,370,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,368,30.0
+PYFL,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,366,
+KSF,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,365,
+KSF,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,365,16.6
+PYFL,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,364,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,362,19.5
+PYFL,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,362,
+PYFL,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,362,
+KSF,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,362,
+PYFL,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,360,
+PYFL,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,359,
+UCL,1.MTD,MicroML,Flow1(Auto),14.0,Submit to LMS,,355,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,354,
+MFL,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,353,36.6
+PYFL,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,353,
+NACL,2.LMTD,Renewal,Flow1(Auto),7.0,Selfie uploaded,,353,
+NACL,2.LMTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,351,
+MFL,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,351,
+KSF,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,350,
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,350,13.2
+KSF,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,349,
+KSF,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,347,
+UCL,1.MTD,MicroML,Flow1(Auto),15.0,Disbursed,,347,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,345,
+NACL,2.LMTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,345,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,345,
+NACL,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,345,
+NACL,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,344,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,343,13.9
+MFL,1.MTD,Fresh,Flow2(Manual),6.0,Child_Lead_Created,,343,
+MFL,1.MTD,Fresh,Flow2(Manual),2.0,Workable leads,,343,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,342,
+KSF,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,342,
+MFL,1.MTD,Fresh,Flow1(Auto),9.0,BRE2 completed,,341,
+PYFL,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,340,
+MFL,1.MTD,Fresh,Flow1(Auto),10.0,Disbursal acc verified,,339,
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,LIS_CREATE_APPLICATION_SUCCESS,337,11.9
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,336,
+PYFL,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,334,
+PYFL,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,332,
+PYFL,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,332,
+NACL,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,331,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,328,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),2.0,Workable leads,,328,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_APPLICATION_ON_HOLD,328,8.2
+MFL,1.MTD,Fresh,Flow1(Auto),11.0,Review submit,,327,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,326,22.3
+MFL,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,324,22.5
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),10.1,Disbursal acc verified,BANKING_ACTION_DONE,323,11.9
+PYFL,2.LMTD,Fresh,Flow1(Auto),1001.0,Unmapped,,323,
+MFL,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,322,
+NACL,2.LMTD,Fresh,Flow1(Auto),11.0,Review submit,,316,
+NACL,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,307,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,307,32.8
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,307,18.0
+PYFL,2.LMTD,Fresh,Flow2(Manual),1001.0,Unmapped,,305,
+MFL,1.MTD,Fresh,Flow1(Auto),12.0,Mandate done,,304,
+NACL,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,304,
+PYFL,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,304,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,301,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),4.0,BRE1 completed,,301,
+NACL,2.LMTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,301,
+NACL,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,298,
+MFL,2.LMTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,298,75.8
+KSF,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,297,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),1002.0,Unmapped,,297,
+MFL,1.MTD,Fresh,Flow2(Manual),7.0,Selfie uploaded,,296,
+PYFL,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,296,24.1
+NACL,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,295,
+NACL,2.LMTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,294,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,293,12.5
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),2.0,Workable leads,,292,
+NACL,2.LMTD,Fresh,Flow1(Auto),12.0,Mandate done,,292,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,292,
+KSF,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,291,12.4
+MFL,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,291,
+NACL,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,290,
+PYFL,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,290,
+MFL,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,290,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,SERVICEABILITY_REJECTED,289,3.7
+PYFL,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,289,
+UCL,1.MTD,MicroML,Flow2(Manual),12.0,Mandate done,,287,
+MFL,1.MTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,287,
+KSF,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,287,
+NACL,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,286,
+KSF,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,BANK_NAME_MATCH_FAILED,285,7.4
+KSF,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,INITIATE_MULTIMODE_KYC,285,7.5
+MFL,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,282,
+PYFL,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,280,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,279,7.4
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),2.0,Workable leads,,279,
+NACL,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,279,33.0
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,279,
+NACL,2.LMTD,Fresh,Flow1(Auto),13.0,Application submitted by user,,278,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,276,16.9
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,LIS_CREATE_APPLICATION_SUCCESS,276,10.4
+PYFL,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,276,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,275,11.6
+PYFL,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,274,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,BUSINESS_APPROVAL_AWAITED,273,6.8
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),4.0,BRE1 completed,,272,
+MFL,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,272,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,272,
+MFL,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,272,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,270,55.4
+PYFL,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,269,
+NACL,2.LMTD,Fresh,Flow2(Manual),11.0,Review submit,,268,
+MFL,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,265,
+MFL,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,264,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,263,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),4.0,BRE1 completed,,263,
+PYFL,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,261,
+PYFL,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,261,
+PYFL,2.LMTD,Renewal,Flow1(Auto),15.0,Disbursed,,260,
+UCL,1.MTD,MicroML,Flow2(Manual),13.0,Application submitted by user,,259,
+KSF,2.LMTD,Renewal,Flow1(Auto),15.0,Disbursed,,258,
+PYFL,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,257,
+PYFL,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,257,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,255,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,252,
+KSF,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,SELFIE_CAPTURED,252,6.6
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),10.1,Disbursal acc verified,BANKING_ACTION_DONE,252,9.2
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,251,
+MFL,2.LMTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,250,77.6
+MFL,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,250,
+KSF,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,250,
+KSF,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,INITIATE_MULTIMODE_KYC,249,7.2
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,248,9.6
+NACL,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,246,
+MFL,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,246,
+KSF,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,245,
+MFL,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,245,
+NACL,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,245,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),10.1,Disbursal acc verified,BANKING_ACTION_DONE,245,6.0
+FULLERTON,1.MTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,KYC_IN_PROGRESS,244,6.1
+MFL,2.LMTD,Renewal,Flow2(Manual),2.0,Workable leads,,242,
+MFL,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,242,
+UCL,1.MTD,MicroML,Flow2(Manual),14.0,Submit to LMS,,242,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,LIS_CREATE_APPLICATION_SUCCESS,242,11.6
+PYFL,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,241,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,241,9.6
+UCL,1.MTD,MicroML,Flow2(Manual),15.0,Disbursed,,239,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,238,11.4
+NACL,2.LMTD,Fresh,Flow2(Manual),12.0,Mandate done,,238,
+KSF,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,236,23.4
+UCL,1.MTD,MicroML,Flow1(Auto),7.1,Selfie uploaded,INITIATE_MULTIMODE_KYC,235,17.1
+MFL,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,230,
+KSF,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,SELFIE_CAPTURED,230,6.7
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,230,47.7
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,229,
+NACL,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,227,
+NACL,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,227,
+NACL,2.LMTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,227,
+PYFL,1.MTD,Fresh,Flow1(Auto),1001.1,Unmapped,FETCH_DOC_INIT_SUCCESS,226,22.4
+KSF,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,BANK_NAME_MATCH_FAILED,226,8.9
+PYFL,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,225,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,224,11.6
+FULLERTON,1.MTD,Fresh,Flow2(Manual),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,221,6.6
+MFL,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,221,13.3
+PYFL,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,220,13.4
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,219,9.4
+FULLERTON,1.MTD,Renewal,Flow2(Manual),1002.0,Unmapped,,219,
+PYFL,1.MTD,Renewal,Flow2(Manual),1001.1,Unmapped,FETCH_DOC_INIT_SUCCESS,218,47.0
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,218,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,KYC_IN_PROGRESS,217,11.2
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,217,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,216,
+NACL,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,216,
+MFL,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,216,
+KSF,2.LMTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,215,11.5
+NACL,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,213,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,211,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,211,
+KSF,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,210,
+PYFL,2.LMTD,Renewal,Flow1(Auto),1001.0,Unmapped,,209,
+NACL,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,208,19.8
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),11.0,Review submit,,208,
+NACL,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,206,
+KSF,1.MTD,Renewal,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,206,50.6
+MFL,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,203,
+MFL,1.MTD,Fresh,Flow2(Manual),8.0,KYC completed,,203,
+NACL,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,203,25.8
+KSF,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,203,
+PYFL,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,202,
+KSF,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,202,12.9
+FULLERTON,1.MTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,200,7.8
+NACL,2.LMTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,199,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,198,
+PYFL,2.LMTD,Renewal,Flow2(Manual),15.0,Disbursed,,198,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),12.0,Mandate done,,198,
+NACL,2.LMTD,Renewal,Flow2(Manual),2.0,Workable leads,,196,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),8.0,KYC completed,,196,
+NACL,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,196,
+MFL,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,194,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,193,11.4
+PYFL,1.MTD,Fresh,Flow1(Auto),14.0,Submit to LMS,,193,
+KSF,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,192,
+NACL,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,192,15.5
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,192,
+PYFL,1.MTD,Fresh,Flow2(Manual),1001.1,Unmapped,FETCH_DOC_INIT_SUCCESS,190,28.6
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),1.0,Total leads,,190,
+KSF,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,190,
+PYFL,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,189,23.4
+NACL,2.LMTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,189,
+KSF,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,189,
+MFL,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,187,20.2
+NACL,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,187,
+NACL,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,185,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,185,
+MFL,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,184,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,183,23.3
+NACL,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,183,
+PYFL,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,181,
+NACL,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,178,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,178,10.8
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,178,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,176,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),9.0,BRE2 completed,,176,
+PYFL,1.MTD,Fresh,Flow1(Auto),15.0,Disbursed,,176,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,LENDER_CREATE_APPLICATION_SUCCESS,176,6.8
+NACL,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,175,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),10.1,Disbursal acc verified,BANKING_ACTION_DONE,175,13.3
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,175,43.3
+KSF,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,174,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),10.0,Disbursal acc verified,,174,
+PYFL,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,173,
+MFL,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,173,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,LIS_CREATE_APPLICATION_SUCCESS,173,10.5
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,173,
+MFL,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,172,26.2
+MFL,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,171,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,171,
+PYFL,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,171,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,171,
+MFL,2.LMTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,169,38.2
+KSF,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,169,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,LENDER_CREATE_APPLICATION_SUCCESS,168,8.7
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,167,13.5
+PYFL,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,167,
+KSF,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,167,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),13.1,Application submitted by user,LOAN_APPLICATION_ON_HOLD,166,4.9
+PYFL,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,166,15.4
+KSF,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,INITIATE_MULTIMODE_KYC,166,7.5
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,166,
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,166,
+PYFL,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,165,18.6
+UCL,1.MTD,MicroML,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,163,11.9
+NACL,2.LMTD,Renewal,Flow1(Auto),11.0,Review submit,,163,
+KSF,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,161,
+MFL,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,161,35.6
+KSF,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,160,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),15.0,Disbursed,,160,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,159,22.5
+MFL,1.MTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,158,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,158,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,SERVICEABILITY_REJECTED,158,2.9
+MFL,1.MTD,Renewal,Flow2(Manual),2.0,Workable leads,,158,
+NACL,2.LMTD,Renewal,Flow1(Auto),12.0,Mandate done,,158,
+UCL,1.MTD,MicroML,Flow2(Manual),7.1,Selfie uploaded,INITIATE_MULTIMODE_KYC,157,15.0
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,157,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,154,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,154,
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,153,9.0
+MFL,1.MTD,Fresh,Flow2(Manual),9.0,BRE2 completed,,153,
+MFL,1.MTD,Fresh,Flow2(Manual),10.0,Disbursal acc verified,,151,
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),6.0,Child_Lead_Created,,150,
+PYFL,1.MTD,Fresh,Flow1(Auto),1001.1,Unmapped,SERVICEABILITY_ACCEPTED,150,14.9
+MFL,1.MTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,150,
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),2.0,Workable leads,,150,
+MFL,2.LMTD,Renewal,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,149,87.1
+FULLERTON,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_SELFIE_UPLOADED,148,1.6
+FULLERTON,1.MTD,Fresh,Flow2(Manual),13.1,Application submitted by user,BUSINESS_APPROVAL_AWAITED,148,4.4
+NACL,2.LMTD,Renewal,Flow1(Auto),13.0,Application submitted by user,,148,
+KSF,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,SELFIE_CAPTURED,147,6.7
+MFL,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,146,30.0
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,146,21.7
+NACL,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,145,
+NACL,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,145,
+KSF,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,145,
+KSF,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,144,3.8
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),7.0,Selfie uploaded,,144,
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),4.0,BRE1 completed,,144,
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),15.0,Disbursed,,142,
+KSF,2.LMTD,Renewal,Flow1(Auto),1001.0,Unmapped,,142,
+MFL,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,141,
+KSF,2.LMTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,141,8.5
+MFL,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,140,
+NACL,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,139,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,139,
+MFL,1.MTD,Fresh,Flow2(Manual),11.0,Review submit,,139,
+PYFL,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,KYC_FAILED_SEARCH_BY_PAN,139,11.3
+KSF,1.MTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,BANK_NAME_MATCH_FAILED,137,9.1
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,137,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,SERVICEABILITY_REJECTED,136,3.2
+KSF,2.LMTD,Renewal,Flow2(Manual),15.0,Disbursed,,136,
+MFL,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,136,
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,135,16.9
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,134,
+KSF,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,134,
+NACL,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,133,26.7
+FULLERTON,1.MTD,Renewal,Flow1(Auto),1.0,Total leads,,131,
+KSF,2.LMTD,Fresh,Flow2(Manual),11.1,Review submit,REVIEW_OFFER_ACCEPTED,130,7.0
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,130,13.5
+PYFL,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,130,11.4
+PYFL,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,KYC_FAILED_SEARCH_BY_PAN,130,12.1
+UCL,1.MTD,MicroML,Flow2(Manual),7.1,Selfie uploaded,KYC_REJECTED,129,12.3
+NACL,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,129,19.0
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,LOAN_APPLICATION_ON_HOLD,129,7.6
+NACL,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,129,20.4
+MFL,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,127,
+PYFL,2.LMTD,Renewal,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,125,22.3
+KSF,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,INITIATE_MULTIMODE_KYC,125,8.0
+PYFL,2.LMTD,Renewal,Flow2(Manual),1001.0,Unmapped,,125,
+FULLERTON,1.MTD,Fresh,Flow1(Auto),1.0,Total leads,,124,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,123,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,123,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,123,7.2
+FULLERTON,1.MTD,Renewal,Flow1(Auto),10.1,Disbursal acc verified,BANKING_ACTION_DONE,123,6.3
+KSF,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_REJECTED,121,3.5
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),1.0,Total leads,,121,
+FULLERTON,1.MTD,Renewal,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,121,7.6
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LIS_DATA_UPDATE_FAILED,121,3.0
+UCL,1.MTD,MicroML,Flow1(Auto),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,120,8.7
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,119,11.3
+KSF,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,119,
+MFL,2.LMTD,Fresh,Flow1(Auto),1.0,Total leads,,118,
+NACL,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,117,14.7
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),15.0,Disbursed,,117,
+MFL,1.MTD,Fresh,Flow2(Manual),12.0,Mandate done,,117,
+KSF,2.LMTD,Fresh,Flow1(Auto),1001.1,Unmapped,TF_LMS_FETCH_DOCUMENTS,116,26.0
+PYFL,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,115,8.7
+MFL,1.MTD,Renewal,Flow2(Manual),8.0,KYC completed,,115,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),1002.0,Unmapped,,114,
+MFL,1.MTD,Fresh,Flow2(Manual),13.0,Application submitted by user,,113,
+MFL,2.LMTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,113,19.6
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,112,9.1
+MFL,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,112,
+MFL,1.MTD,Fresh,Flow1(Auto),1.0,Total leads,,112,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,112,13.2
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,112,
+PYFL,2.LMTD,Fresh,Flow2(Manual),13.1,Application submitted by user,LOAN_AGREEMENT_SUCCESS,111,17.8
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,111,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,111,24.1
+PYFL,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,111,8.7
+FULLERTON,1.MTD,Renewal,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,110,6.1
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),6.1,Child_Lead_Created,KYC_IN_PROGRESS,110,11.0
+NACL,2.LMTD,Renewal,Flow1(Auto),14.0,Submit to LMS,,109,
+KSF,2.LMTD,Renewal,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,108,19.6
+FULLERTON,1.MTD,Renewal,Flow1(Auto),8.1,KYC completed,SERVICEABILITY_REJECTED,107,3.1
+NACL,2.LMTD,Renewal,Flow1(Auto),15.0,Disbursed,,106,
+NACL,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,106,
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,106,16.8
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,LENDER_CREATE_APPLICATION_SUCCESS,106,7.9
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,106,11.0
+NACL,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,106,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,105,7.8
+KSF,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,BANK_NAME_MATCH_FAILED,104,6.0
+KSF,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,SELFIE_CAPTURED,104,6.6
+UCL,1.MTD,MicroML,Flow1(Auto),6.1,Child_Lead_Created,AWAIT_SELFIE,104,5.5
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,103,6.4
+MFL,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,103,
+KSF,2.LMTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_FETCH_DOCUMENTS_INIT,103,9.0
+NACL,2.LMTD,Renewal,Flow1(Auto),8.1,KYC completed,BRE2_FAILURE,102,34.6
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_SELFIE_UPLOADED,102,2.0
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,102,9.6
+KSF,2.LMTD,Fresh,Flow1(Auto),1001.1,Unmapped,TF_LMS_PDC_CHECK_INITIATE,102,22.9
+MFL,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,102,15.4
+MFL,1.MTD,Fresh,Flow2(Manual),14.0,Submit to LMS,,101,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,100,10.4
+UCL,1.MTD,MicroML,Flow2(Manual),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,100,9.5
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,99,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,99,
+MFL,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,99,9.7
+NACL,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,99,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,99,5.3
+KSF,2.LMTD,Fresh,Flow2(Manual),10.1,Disbursal acc verified,AWAIT_OFFER_ACCEPT,98,5.0
+NACL,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,98,19.6
+KSF,1.MTD,Fresh,Flow2(Manual),1001.1,Unmapped,VKYC_DOCS_INIT_SUCCESS,98,11.5
+KSF,2.LMTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LMS_FETCH_DOCUMENTS_INIT,97,7.6
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_QC_REJECTED,97,2.4
+MFL,1.MTD,Renewal,Flow1(Auto),1.0,Total leads,,97,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,BUSINESS_APPROVAL_AWAITED,97,5.7
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,LIS_DATA_UPDATE_FAILED,97,5.7
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,97,
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),10.1,Disbursal acc verified,BANKING_ACTION_DONE,96,13.5
+KSF,2.LMTD,Fresh,Flow1(Auto),11.1,Review submit,REVIEW_OFFER_ACCEPTED,96,5.8
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,LENDER_CREATE_APPLICATION_SUCCESS,95,8.9
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,93,
+PYFL,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_REJECTED,93,8.3
+MFL,2.LMTD,Fresh,Flow1(Auto),15.0,Disbursed,,93,
+KSF,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,93,4.2
+FULLERTON,1.MTD,Renewal,Flow2(Manual),6.1,Child_Lead_Created,KYC_IN_PROGRESS,93,5.5
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,93,
+NACL,1.MTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,93,8.7
+PYFL,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_AGREEMENT_SUCCESS,92,15.3
+NACL,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,92,12.7
+MFL,1.MTD,Fresh,Flow2(Manual),15.0,Disbursed,,92,
+NACL,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,92,9.5
+NACL,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,92,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LIS_DATA_UPDATE_FAILED,91,4.3
+KSF,2.LMTD,Fresh,Flow1(Auto),10.1,Disbursal acc verified,AWAIT_OFFER_ACCEPT,91,5.2
+KSF,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,91,7.0
+MFL,1.MTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,91,
+MFL,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,INITIATE_KYC,91,6.3
+NACL,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,91,
+MFL,1.MTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,91,
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),15.0,Disbursed,,91,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,88,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,88,
+MFL,1.MTD,Renewal,Flow2(Manual),11.0,Review submit,,87,
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,LOAN_QC_REJECTED,87,5.1
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,86,46.5
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),13.1,Application submitted by user,LIS_DATA_UPDATE_REQUEST_SUCCESS,86,10.0
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,85,8.3
+NACL,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,83,17.4
+NACL,1.MTD,Renewal,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,83,24.1
+KSF,2.LMTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LOAN_DISBURSEMENT_FAILURE,83,7.3
+KSF,1.MTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,82,11.9
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),1.0,Total leads,,82,
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),1.0,Total leads,,82,
+MFL,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,82,11.0
+MFL,1.MTD,Renewal,Flow2(Manual),12.0,Mandate done,,81,
+MFL,2.LMTD,Renewal,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,81,78.6
+FULLERTON,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_SELFIE_UPLOADED,80,1.2
+PYFL,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,79,13.8
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,78,35.8
+KSF,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,AWAIT_SELFIE,78,3.1
+KSF,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,FI_AWAITED,77,5.4
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),1002.0,Unmapped,,77,
+MFL,1.MTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,77,
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,77,10.9
+FULLERTON,2.LMTD,Renewal,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,77,8.6
+KSF,2.LMTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,77,9.9
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),1.0,Total leads,,77,
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,SERVICEABILITY_REJECTED,76,2.2
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,76,11.8
+UCL,1.MTD,MicroML,Flow2(Manual),6.1,Child_Lead_Created,AWAIT_SELFIE,76,5.1
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,BUSINESS_APPROVAL_AWAITED,75,3.6
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,75,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_QC_REJECTED,74,3.5
+UCL,1.MTD,MicroML,Flow1(Auto),8.1,KYC completed,LENDER_BRE_REJECTED,74,9.9
+KSF,1.MTD,Fresh,Flow1(Auto),1001.1,Unmapped,VKYC_DOCS_INIT_SUCCESS,74,6.8
+PYFL,1.MTD,Fresh,Flow1(Auto),8.1,KYC completed,KYC_FAILED_SEARCH_BY_PAN,74,9.2
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,74,6.7
+PYFL,1.MTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,74,6.7
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),10.1,Disbursal acc verified,BANKING_ACTION_DONE,74,7.5
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_REQUESTED,73,1.7
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),8.0,KYC completed,,73,
+PIRAMAL,2.LMTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,73,9.2
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,73,11.7
+PYFL,2.LMTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,73,10.4
+MFL,2.LMTD,Fresh,Flow2(Manual),15.0,Disbursed,,72,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),13.1,Application submitted by user,LOAN_QC_REJECTED,72,2.1
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,72,9.3
+KSF,2.LMTD,Fresh,Flow2(Manual),1001.1,Unmapped,TF_LMS_FETCH_DOCUMENTS,72,14.2
+PYFL,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,ML_CHILD_LEAD_CREATED,70,9.4
+NACL,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,70,
+KSF,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,AWAIT_SELFIE,69,1.6
+KSF,1.MTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,69,10.3
+MFL,2.LMTD,Renewal,Flow1(Auto),1.0,Total leads,,69,
+PYFL,2.LMTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,AWAIT_SELFIE,68,4.1
+KSF,1.MTD,Fresh,Flow1(Auto),1001.1,Unmapped,BRE2_SUCCESS,68,6.2
+PYFL,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,68,7.9
+MFL,1.MTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,68,
+NACL,2.LMTD,Renewal,Flow2(Manual),15.0,Disbursed,,67,
+PIRAMAL,1.MTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,67,11.6
+MFL,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_FAILED,67,12.1
+PYFL,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,66,11.7
+KSF,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,KYC_PINCODE_NOT_SERVICEABLE,66,2.8
+NACL,1.MTD,Fresh,Flow1(Auto),1.0,Total leads,,66,
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,65,
+UCL,1.MTD,MicroML,Flow2(Manual),10.1,Disbursal acc verified,AWAIT_OFFER_ACCEPT,64,13.0
+KSF,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,64,4.9
+PYFL,1.MTD,Fresh,Flow2(Manual),13.1,Application submitted by user,LOAN_AGREEMENT_SUCCESS,64,17.7
+KSF,2.LMTD,Fresh,Flow2(Manual),13.1,Application submitted by user,FI_AWAITED,64,4.2
+PYFL,1.MTD,Fresh,Flow2(Manual),1001.1,Unmapped,SERVICEABILITY_ACCEPTED,64,9.6
+NACL,2.LMTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,63,11.2
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),10.0,Disbursal acc verified,,63,
+MFL,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,63,21.3
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,63,9.8
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),9.0,BRE2 completed,,63,
+NACL,2.LMTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,63,16.8
+MFL,2.LMTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED_V2,62,13.5
+UCL,1.MTD,MicroML,Flow1(Auto),11.1,Review submit,BP_MOBILE_UDYAM_INIT,62,11.5
+PYFL,1.MTD,Renewal,Flow1(Auto),1001.1,Unmapped,SERVICEABILITY_ACCEPTED,62,6.2
+KSF,1.MTD,Fresh,Flow2(Manual),1001.1,Unmapped,BRE2_SUCCESS,62,7.3
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),13.1,Application submitted by user,LOAN_QC_REJECTED,61,2.9
+KSF,2.LMTD,Fresh,Flow2(Manual),13.1,Application submitted by user,FI_ON_HOLD,61,4.0
+KSF,2.LMTD,Renewal,Flow2(Manual),1001.0,Unmapped,,61,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LIS_DATA_UPDATE_REQUEST_SUCCESS,60,2.9
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),11.0,Review submit,,60,
+MFL,1.MTD,Renewal,Flow2(Manual),15.0,Disbursed,,60,
+MFL,2.LMTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED_V2,60,10.6
+PYFL,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,60,14.9
+KSF,2.LMTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LOAN_DISBURSEMENT_FAILURE,59,4.6
+KSF,2.LMTD,Fresh,Flow2(Manual),1001.1,Unmapped,TF_LMS_PDC_CHECK_INITIATE,58,11.5
+FULLERTON,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,DIY_FI_REQUIRED,57,1.4
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),12.0,Mandate done,,57,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),1.0,Total leads,,57,
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,57,11.5
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),13.0,Application submitted by user,,57,
+FULLERTON,1.MTD,Fresh,Flow2(Manual),13.1,Application submitted by user,LIS_DATA_UPDATE_FAILED,56,1.7
+KSF,2.LMTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,BANK_NAME_MATCH_FAILED,56,6.3
+PIRAMAL,2.LMTD,Renewal,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,56,18.6
+KSF,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,VKYC_REQUIRED,56,3.9
+PYFL,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_AGREEMENT_SUCCESS,56,13.9
+KSF,1.MTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_REJECTED,56,3.6
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),1.0,Total leads,,56,
+SHRIRAM,1.MTD,Renewal,Flow2(Manual),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,56,20.6
+PYFL,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,LENDER_APP_CREATE_FAILED,56,5.8
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,56,7.0
+UCL,1.MTD,MicroML,Flow2(Manual),11.1,Review submit,BP_MOBILE_UDYAM_INIT,55,14.2
+SHRIRAM,2.LMTD,Fresh,Flow1(Auto),8.1,KYC completed,BRE2_REQUESTED,55,5.2
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),1.0,Total leads,,55,
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,54,2.6
+MFL,1.MTD,Fresh,Flow2(Manual),1.0,Total leads,,54,
+KSF,2.LMTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,54,6.9
+FULLERTON,1.MTD,Renewal,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,53,9.0
+FULLERTON,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,KYC_SELFIE_UPLOADED,53,1.3
+KSF,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,DIY_FI_SKIPPED,53,3.7
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,BUSINESS_APPROVAL_AWAITED,53,5.2
+PIRAMAL,1.MTD,Renewal,Flow2(Manual),7.1,Selfie uploaded,KYC_FAILED,52,19.8
+FULLERTON,1.MTD,Renewal,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,52,5.7
+FULLERTON,1.MTD,Renewal,Flow1(Auto),13.1,Application submitted by user,LIS_DATA_UPDATE_REQUEST_SUCCESS,52,3.1
+PYFL,1.MTD,Renewal,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,52,13.3
+SHRIRAM,1.MTD,Renewal,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,51,20.0
+MFL,2.LMTD,Fresh,Flow2(Manual),7.1,Selfie uploaded,INITIATE_KYC,51,5.5
+UCL,1.MTD,MicroML,Flow1(Auto),10.1,Disbursal acc verified,AWAIT_OFFER_ACCEPT,51,8.2
+PIRAMAL,2.LMTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,50,8.2
+KSF,2.LMTD,Fresh,Flow2(Manual),13.1,Application submitted by user,VKYC_REQUIRED,50,3.3
+MFL,1.MTD,Fresh,Flow2(Manual),8.1,KYC completed,BRE2_FAILURE,50,24.6
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),14.0,Submit to LMS,,50,
+KSF,1.MTD,Renewal,Flow2(Manual),7.1,Selfie uploaded,LENDER_APP_CREATE_SUCCESS,50,8.9
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_APPLICATION_REJECTED,50,2.4
+NACL,1.MTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,50,14.5
+SHRIRAM,1.MTD,Fresh,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,49,8.2
+PIRAMAL,2.LMTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,49,7.2
+FULLERTON,1.MTD,Renewal,Flow2(Manual),13.1,Application submitted by user,DIY_FI_DOC_UPLOADED,49,5.7
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,49,5.4
+PYFL,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,KYC_REJECTED,48,5.0
+NACL,2.LMTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,48,12.0
+NACL,1.MTD,Renewal,Flow1(Auto),1.0,Total leads,,48,
+SHRIRAM,1.MTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_APPLICATION_ON_HOLD,48,4.7
+KSF,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,FI_ON_HOLD,48,3.4
+SHRIRAM,2.LMTD,Renewal,Flow1(Auto),1.0,Total leads,,48,
+SHRIRAM,2.LMTD,Renewal,Flow2(Manual),4.1,BRE1 completed,LENDER_CREATE_APPLICATION_REJECTED,48,33.3
+MFL,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,INITIATE_KYC,48,7.2
+FULLERTON,2.LMTD,Fresh,Flow1(Auto),13.1,Application submitted by user,LOAN_APPLICATION_ON_HOLD,48,2.3
+FULLERTON,1.MTD,Renewal,Flow2(Manual),13.1,Application submitted by user,LOAN_APPLICATION_ON_HOLD,47,5.4
+PIRAMAL,1.MTD,Renewal,Flow1(Auto),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,47,6.5
+MFL,1.MTD,Fresh,Flow2(Manual),6.1,Child_Lead_Created,KYC_SELFIE_REQUIRED,47,13.7
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,47,8.0
+NACL,1.MTD,Fresh,Flow1(Auto),11.1,Review submit,EMANDATE_REQUIRED,46,9.6
+KSF,1.MTD,Renewal,Flow1(Auto),7.1,Selfie uploaded,SELFIE_CAPTURED,46,3.5
+UCL,1.MTD,MicroML,Flow2(Manual),8.1,KYC completed,LENDER_BRE_REJECTED,46,7.9
+SHRIRAM,2.LMTD,Fresh,Flow2(Manual),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,46,11.9
+PYFL,2.LMTD,Renewal,Flow1(Auto),1001.1,Unmapped,TF_LMS_FETCH_DOCUMENTS,46,22.0
+KSF,1.MTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LOAN_DISBURSEMENT_FAILURE,46,11.1
+PYFL,1.MTD,Fresh,Flow1(Auto),6.1,Child_Lead_Created,AWAIT_SELFIE,45,3.9
+FULLERTON,1.MTD,Renewal,Flow2(Manual),13.1,Application submitted by user,LIS_DATA_UPDATE_FAILED,45,5.2
+UCL,1.MTD,MicroML,Flow2(Manual),11.1,Review submit,EMANDATE_REQUIRED,45,11.6
+FULLERTON,2.LMTD,Renewal,Flow1(Auto),13.1,Application submitted by user,BUSINESS_APPROVAL_AWAITED,45,5.2
+PIRAMAL,1.MTD,Fresh,Flow1(Auto),14.1,Submit to LMS,LMS_SUBMIT_APPLICATION_SUCCESS,45,9.8
+NACL,1.MTD,Fresh,Flow1(Auto),10.1,Disbursal acc verified,LOAN_AGREEMENT_PENDING,45,8.4
+FULLERTON,1.MTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,KYC_RETRYABLE_FAILURE,44,0.5
+KSF,2.LMTD,Fresh,Flow1(Auto),7.1,Selfie uploaded,LENDER_PAN_DEDUP_FAILED,44,1.2
+FULLERTON,1.MTD,Fresh,Flow2(Manual),9.1,BRE2 completed,BANK_VALIDATION_PENDING,44,1.1
