@@ -44,8 +44,10 @@ export interface L2AnalysisRow {
 
 // ─── CSV Fetching ───────────────────────────────────────────────────────────
 
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
 async function fetchCSV<T>(path: string, transform: (row: Record<string, string>) => T): Promise<T[]> {
-  const res = await fetch(path);
+  const res = await fetch(`${BASE}${path}`);
   const text = await res.text();
   const parsed = Papa.parse<Record<string, string>>(text, {
     header: true,
